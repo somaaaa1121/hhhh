@@ -3,7 +3,7 @@ num1 = 5
 num2 = 10
 
 # Add the numbers
-total_sum = num1 + num2
+total_suum = num1 + num2
 
-# Display the result
+# Display the resuflt
 print(f"The sum is: {total_sum}")
